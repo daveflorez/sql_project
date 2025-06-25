@@ -1,0 +1,4 @@
+# Archivos y carpetas que NO quiero subir a GitHub
+csv_files/
+sql_load/
+test.py
